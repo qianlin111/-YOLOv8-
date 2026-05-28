@@ -1,0 +1,6 @@
+train: D:\参照物、训练图片\新建文件夹\图片\2\train\images
+val: D:\参照物、训练图片\新建文件夹\图片\2\valid\images
+test: D:\参照物、训练图片\新建文件夹\图片\2\test\images
+
+nc: 4
+names: ['a4_board', 'circle', 'square', 'triangle']
